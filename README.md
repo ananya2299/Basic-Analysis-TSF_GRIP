@@ -1,2 +1,2 @@
 # Analysis
-Data Analysis and Machine Learning projects
+Simple and Multiple Linear Regression Projects by The Sparks Foundation
